@@ -1,0 +1,20 @@
+[
+  {
+    "maximum_lifting_weight": 1225,
+    "name": "Bell 429",
+    "maximum_height": 561
+  },
+  {
+    "maximum_lifting_weight": 380,
+    "name": "Robinson R44",
+    "maximum_height": 650
+  },{
+    "maximum_lifting_weight": 1088,
+    "name": "Eurocopter EC 130",
+    "maximum_height": 116
+  },{
+    "maximum_lifting_weight": 675,
+    "name": "BELL 407",
+    "maximum_height": 1054
+  }
+]
